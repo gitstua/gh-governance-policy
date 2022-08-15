@@ -12,3 +12,6 @@ Large enterprise customers are always requiring more governance over their GitHu
 ## References
 - (The Five Disciplines of Cloud Governance)[https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/govern/governance-disciplines]
 - 
+
+## About
+This is a sample/demonstration repo only. Use at own risk.
