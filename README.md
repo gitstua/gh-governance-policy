@@ -7,11 +7,11 @@ Large enterprise customers are always requiring more governance over their GitHu
 1. It is possible for the creator of a new organization to forget to enable settings to enforce SAML single sign-on (SSO) and 2FA which adds risk should employee GitHub credentials be stolen
 
 ## What is governance
-
+-
 
 ## References
 - (The Five Disciplines of Cloud Governance)[https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/govern/governance-disciplines]
-- 
+- Open Policy Agent - [Project page](https://www.openpolicyagent.org/) and [conftest](https://github.com/open-policy-agent/conftest)
 
 ## About
 This is a sample/demonstration repo only. Use at own risk.
